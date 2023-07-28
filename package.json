@@ -30,11 +30,11 @@
     "email": "theo@theopatt.com"
   },
   "bugs": {
-    "url": "https://github.com/theopolisme/react-native-stripe-terminal/issues"
+    "url": "https://github.com/ilijaprzeski/react-native-stripe-terminal/issues"
   },
   "deprecated": false,
   "description": "React Native Stripe Terminal",
-  "homepage": "https://github.com/theopolisme/react-native-stripe-terminal#readme",
+  "homepage": "https://github.com/ilijaprzeski/react-native-stripe-terminal#readme",
   "keywords": [
     "react-native"
   ],
@@ -48,8 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theopolisme/react-native-stripe-terminal.git",
-    "baseUrl": "https://github.com/theopolisme/react-native-stripe-terminal"
+    "url": "git+https://github.com/ilijaprzeski/react-native-stripe-terminal.git",
+    "baseUrl": "https://github.com/ilijaprzeski/react-native-stripe-terminal"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
